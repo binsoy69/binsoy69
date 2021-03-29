@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vince Maravillas
 - 👀 I’m interested in making code that works LOL
-- 🌱 I’m currently learning Java and Python automation projects
+- 🌱 I’m currently learning pygame 
 - 💞️ I’m looking to collaborate on swaggg projects
 - 📫 How to reach me? -- dm me on twitter @binsoy69
 
